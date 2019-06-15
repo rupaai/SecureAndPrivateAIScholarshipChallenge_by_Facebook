@@ -1,4 +1,5 @@
 # Secure And Private AI Scholarship Challenge by Facebook
+Privacy in modern world has become a new crisis. Introduction of deep learning has made things more difficult as deep learning needs huge data chunk to function properly. However, if that data is gone to an undesired hand, one might have to suffer. To solve the issue, a new research filed has taken place which is how to secure privacy. 
 ## Lesson 2 (Complete)
 I have completed the following tasks on this lesson:
 - Single Layer Neural Network using PyTorch.
